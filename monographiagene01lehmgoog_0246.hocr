@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monographiagene01lehmgoog_0246.png"; bbox 0 0 1310 1625; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 491 499 748 966">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 491 499 748 966">
+     <span class='ocr_line' id='line_1_1' title="bbox 491 499 748 966; baseline 0 659"><span class='ocrx_word' id='word_1_1' title='bbox 491 499 748 966; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 381 1387 803 1455">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 381 1387 803 1455">
+     <span class='ocr_line' id='line_1_2' title="bbox 381 1387 676 1451; baseline -0.061 7"><span class='ocrx_word' id='word_1_2' title='bbox 381 1406 386 1409; x_wconf 11' lang='grc' dir='ltr'>ἱ</span> <span class='ocrx_word' id='word_1_3' title='bbox 459 1387 523 1451; x_wconf 49' lang='lat' dir='ltr'><em>ss</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 547 1401 605 1447; x_wconf 68' lang='lat' dir='ltr'><em>fs!</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 672 1426 676 1429; x_wconf 39' lang='grc' dir='ltr'><em>ι</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 440 1418 803 1455; baseline -0.063 0"><span class='ocrx_word' id='word_1_6' title='bbox 440 1437 458 1453; x_wconf 47' lang='grc' dir='ltr'><em>κ’,</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 473 1437 500 1455; x_wconf 58' lang='lat' dir='ltr'><em>Al</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 517 1434 546 1450; x_wconf 76' lang='lat' dir='ltr'><em>(ll</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 560 1432 569 1446; x_wconf 86' lang='grc' dir='ltr'><em>Ι</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 592 1429 612 1445; x_wconf 82' lang='lat' dir='ltr'><em>(I</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 664 1418 786 1440; x_wconf 51' lang='lat' dir='ltr'><em>schIJLW</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 799 1428 803 1432; x_wconf 89' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
